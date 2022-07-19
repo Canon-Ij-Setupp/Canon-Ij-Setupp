@@ -1,6 +1,6 @@
 #   Canon.com/ijsetup
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon printers are helping users from many years to print , scan and copy documents easily in a high quality. Canon printer drivers are easy to setup and connect with your network. Visit [ij.start.canon](https://github.com/Canon-Ij-Setupp) and follow the guidelines to download, install and setup with your windows or mac device.
 
